@@ -1,13 +1,17 @@
 # Livecoding Madness: Let's Build a Deep Learning Library
 
 [Joel Grus](http://joelgrus.com)
+
 [@joelgrus](https://twitter.com/joelgrus)
 
 research engineer, [Allen Institute for AI](http://allenai.org)
+
 author, [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+
 co-host, [Adversarial Learning" podcast](http://adversariallearning.com)
 
 November 4, 2017
+
 ODSC West 2017
 
 # Livecoding Madness: Let's Build a Deep Learning Library
