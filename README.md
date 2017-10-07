@@ -1,13 +1,16 @@
 # Livecoding Madness: Let's Build a Deep Learning Library
 
-Joel Grus
-@joelgrus
+[Joel Grus](http://joelgrus.com)
+[@joelgrus](https://twitter.com/joelgrus)
 
-research engineer, Allen Institute for AI
-author, _Data Science from Scratch_
-co-host, "Adversarial Learning" podcast
+research engineer, [Allen Institute for AI](http://allenai.org)
+author, [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+co-host, [Adversarial Learning" podcast](http://adversariallearning.com)
 
-# LiveCoding Madness: Let's Build a Deep Learning Library
+November 4, 2017
+ODSC West 2017
+
+# Livecoding Madness: Let's Build a Deep Learning Library
 
 In this talk we'll build a deep learning library
 from scratch (well, from NumPy) in 45 minutes.
