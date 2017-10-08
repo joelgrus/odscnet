@@ -8,7 +8,7 @@ research engineer, [Allen Institute for AI](http://allenai.org)
 
 author, [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 
-co-host, [Adversarial Learning" podcast](http://adversariallearning.com)
+co-host, ["Adversarial Learning" podcast](http://adversariallearning.com)
 
 November 4, 2017
 
@@ -23,6 +23,7 @@ How is that possible? By typing _really_ fast.
 
 Along the way we'll talk about library design,
 type hinting, Python 3.6, and of course deep learning.
+
 
 # Here's the plan:
 
