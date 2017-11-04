@@ -1,5 +1,9 @@
 # Livecoding Madness: Let's Build a Deep Learning Library
 
+[slides](https://docs.google.com/presentation/d/1XBLIg299iMWDgwBlGb-Jdr1KXbx6xTz-Dm-MeH0Z-Jo/edit?usp=sharing)
+
+# About Me
+
 [Joel Grus](http://joelgrus.com)
 
 [@joelgrus](https://twitter.com/joelgrus)
